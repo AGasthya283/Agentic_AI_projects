@@ -1,11 +1,11 @@
-# 🚀 Agentic AI Learning Path  
+# 🚀 Agentic AI 
 
 Agents and **Agentic AI** are reshaping the future of technology by enabling autonomous systems that can reason, plan, and execute tasks with minimal human input.  
 This repository contains my hands-on journey through building **multi-agent systems, agentic RAG applications, and custom AI tools** using leading frameworks such as **CrewAI, LangGraph, AutoGen, and PydanticAI**.  
 
 ---
 
-## 📚 About This Learning Path  
+## 📚 About This Repository
 
 Agentic AI represents a significant step forward in AI by combining **reasoning + action** to solve complex, multi-step problems and adapt dynamically to real-world scenarios.  
 
@@ -28,7 +28,7 @@ This repo is structured as a **project-based curriculum**, where each project in
 - **Domains** → Healthcare, Customer Support, Document Analysis, Content Generation  
 
 ---
-
+<!--
 ## 📂 Projects in This Repo  
 
 Each folder contains code, documentation, and notes for the respective project.  
@@ -79,7 +79,7 @@ Each folder contains code, documentation, and notes for the respective project.
    - *Skills:* LangGraph, Docling, adaptive retrieval  
 
 ---
-
+-->
 ## 🧭 Roadmap  
 
 ✅ Fundamentals of Agentic AI  
