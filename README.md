@@ -28,7 +28,7 @@ This repo is structured as a **project-based curriculum**, where each project in
 - **Domains** → Healthcare, Customer Support, Document Analysis, Content Generation  
 
 ---
-<!--
+
 ## 📂 Projects in This Repo  
 
 Each folder contains code, documentation, and notes for the respective project.  
@@ -45,7 +45,7 @@ Each folder contains code, documentation, and notes for the respective project.
 1. **[Agentic AI - Multi-Agent App with CrewAI + Gradio](./02-multi-agent-app-crewai-gradio/)**  
    - Build a food-image processor that generates personalized recipes  
    - *Skills:* Multi-agent coordination, Computer Vision, CrewAI, Gradio  
-
+<!--
 2. **[CrewAI 101: Building Multi-Agent AI Systems](./03-crewai-101/)**  
    - Develop AI systems to transform workflow automation  
    - *Skills:* CrewAI, Generative AI, Python  
